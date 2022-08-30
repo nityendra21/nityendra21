@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nityendra Shukla
-- 👀 I’m interested in computational genomics, metagenomics
+- 👀 I’m interested in computational genomics
 - 🌱 I’m currently learning Python, Bash 
 - 📫 How to reach me nityendras21@gmail.com
 
