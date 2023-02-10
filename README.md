@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nityendra Shukla
-- 👀 I’m interested in computational genomics
-- 🌱 I’m currently learning Python, Bash 
+- 👀 I’m interested in computational genomics, currently working on pipelines for effective wastewater surveillance and genome assembly of SARS-CoV-2. 
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me nityendras21@gmail.com
 
 <!---
